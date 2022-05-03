@@ -2,6 +2,12 @@ Unity Fur URP
 =============
 ![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 
+----------
+### This fork (main-branch) is not the original one, see changes [here](https://github.com/hecomi/UnityFurURP/pull/10)
+
+### **Documentation and demo will be added in the future.**
+----------
+
 This is an example of a fur shader implementation in Universal Render Pipleine. It includes the following features:
 
 - 3 methods (Shell / Fin / Fur Polygon)
